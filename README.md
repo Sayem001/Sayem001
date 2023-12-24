@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on *Any Web development project*
 
-- 👨‍💻 All of my projects are available at [https://cute-sorbet-9beb9e.netlify.app/]()
+- 👨‍💻 All of my projects are available at []()
 
 - 💬 Ask me about *React JS, Node JS ,Express JS, MERN Stack, UI Design, Frontend Developement*
 
